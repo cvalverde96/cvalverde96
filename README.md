@@ -2,10 +2,10 @@
 
 ### 🔧 **Technical Skills**
 
-- **Programming Languages**: C, Python and Javascript
-- **Frameworks**: Flask
-- **Technologies**: SQL, HTML, and CSS
-- **Tools**: Git, GitHub, Linux and NMAP
+- 💻 **Programming Languages** – C 🔵, Python 🐍, JavaScript ⚡  
+- 🏗️ **Frameworks** – Flask 🔥  
+- 🛠️ **Technologies** – SQL 🗄️, HTML 🌐, CSS 🎨  
+- 🔍 **Tools** – Git 🔗, GitHub 🐙, Linux 🐧, NMAP 🌍  
 
 ---
 
