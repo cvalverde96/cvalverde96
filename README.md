@@ -22,9 +22,8 @@ Beyond coding, I am passionate about:
 
 ### 📊 **GitHub Stats**
 
-![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvalverde96&show_icons=true&theme=merko)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvalverde96&layout=compact&theme=merko)
+![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvalverde96&show_icons=true&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvalverde96&layout=compact&theme=synthwave)
 
 ---
 
@@ -35,5 +34,6 @@ Beyond coding, I am passionate about:
 ---
 
 ### 🤝 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carlos-e-valverde)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:cvalverde96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff66cc?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-e-valverde)
+[![Email](https://img.shields.io/badge/Email-ffcc00?style=flat&logo=gmail&logoColor=white)](mailto:cvalverde96@gmail.com)
+
