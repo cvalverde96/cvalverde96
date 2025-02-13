@@ -22,9 +22,9 @@ Beyond coding, I am passionate about:
 
 ### 📊 **GitHub Stats**
 
-![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvalverde96&show_icons=true&theme=radical)
+![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvalverde96&show_icons=true&theme=synthwave)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvalverde96&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvalverde96&layout=compact&theme=synthwave)
 
 ---
 
