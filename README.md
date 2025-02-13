@@ -12,11 +12,11 @@
 ### 🎯 **Interests**
 
 Beyond coding, I am passionate about:
-- **Gaming**
-- **Surfing**
-- **Folkloric Music**
-- **Anime**
-- **History**
+- 🎮 **Gaming** – *Fire Emblem* 🔥🛡️, *Sid Meier’s Civilization* 🌍🏛️
+- 🏄 **Surfing** – 🌊🏝️
+- 🎶 **Folkloric Music** – 🎸🇵🇷🎵
+- 📺 **Anime** – *Naruto* 🍜🌀, *Hunter x Hunter* 🎯⚔️
+- 📜 **History** – 🏰📖⚔️
 
 ---
 
