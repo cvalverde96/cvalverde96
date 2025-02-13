@@ -22,7 +22,7 @@ Beyond coding, I am passionate about:
 
 ### 📊 **GitHub Stats**
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvalverde96&show_icons=true&theme=radical)
+![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvalverde96&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvalverde96&layout=compact&theme=radical)
 
@@ -35,5 +35,5 @@ Beyond coding, I am passionate about:
 ---
 
 ### 🤝 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/carlos-e-valverde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carlos-e-valverde)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:cvalverde96@gmail.com)
